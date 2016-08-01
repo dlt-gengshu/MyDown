@@ -28,8 +28,14 @@ namespace UpToMyDown
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Form1
+            // 
+            this.Size = new System.Drawing.Size(122, 125);
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
