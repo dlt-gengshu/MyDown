@@ -20,5 +20,10 @@ namespace UpToMyDown
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("π¢ Áƒ„’Ê±ø£°");
+        }
     }
 }
